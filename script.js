@@ -52,7 +52,7 @@ console.log(socialMediaLinks);
 const button = document.querySelector('.button button');
 
 button.addEventListener('click', () => {
-  const cvFile = 'https://github.com/Akasha0510/username.github.io/blob/main/portfilo/your_cv.pdf.pdf';
+  const cvFile = 'your_cv.pdf.pdf';
   const link = document.createElement('a');
   link.href = cvFile;
   link.download = 'your_cv.pdf'; 
