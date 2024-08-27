@@ -325,7 +325,7 @@ section .button button:hover{
 }
 .intership-details p{
   color: #0E2431;
-  text-align: justify;
+  text-align: centre;
 }
 
 /* Contact Me CSS */
