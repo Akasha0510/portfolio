@@ -55,6 +55,6 @@ button.addEventListener('click', () => {
   const cvFile = 'your_cv.pdf';
   const link = document.createElement('a');
   link.href = cvFile;
-  link.download = 'your_cv.pdf'; 
+  link.download = 'https://github.com/Akasha0510/portfolio/blob/60d5b8d2cc7fec7b85cee033ad111da8c11e457e/your_cv.pdf'; 
   link.click();
 });
